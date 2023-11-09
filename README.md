@@ -1,0 +1,1 @@
+comand => react-scripts start
